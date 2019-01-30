@@ -40,6 +40,12 @@ For example, if you align an image to the right-hand side on desktop because of 
 When designing anything, we tend to think mobile first. Email, for once, follows the trend!
 {% endhint %}
 
+### Columns
+
+Ideally, a one column layout would be the best thing ever. But we know people \(clients and designers\) fear simple stuff. So I'm ok with a two column layout.
+
+![2 columns is great. Look at it! So great.](../.gitbook/assets/2col.jpg)
+
 ### Images
 
 Images are handsomely used in emails. Sometimes too much. In order to be the most readable & accessible possible, avoid putting text on an image. If you have to, don't put a key information on an image. If the client blocks images \(by default on a lot of clients\) your email won't contain the necessary data to be relevant.
@@ -47,4 +53,18 @@ Images are handsomely used in emails. Sometimes too much. In order to be the mos
 If you want to use a drop shadow, be sure to design it **inside** your margins.
 
 ![case 1 the shadow bleeds outside of the content-area - case 2 is ok.](../.gitbook/assets/shadow-mobile.jpg)
+
+### Texts
+
+Use the most real text possible on your email. Text as an image will not do well.
+
+Also, use system fonts like Arial, Trebuchet, Verdana, Times… Most email clients can't display custom fonts so you can't predict which default one will be used.
+
+{% hint style="danger" %}
+### **DO NOT use forced line breaks.**
+
+You can create a new paragraph, no problem but you can't make the text pretty. We are not doing print design!
+
+Moreover, forced line breaks will output a weird glyph on some clients.
+{% endhint %}
 
