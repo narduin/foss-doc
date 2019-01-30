@@ -68,3 +68,19 @@ You can create a new paragraph, no problem but you can't make the text pretty. W
 Moreover, forced line breaks will output a weird glyph on some clients.
 {% endhint %}
 
+### Round corners
+
+Avoid them. We can make them work, sure. But is it really necessary? I don't think so.
+
+Some clients support round corners, others don't show them, others break a little.
+
+The only safe way to do that is to export each rounded corner as an image and place them manually around a coloured block. As I said : please avoid them.
+
+## Agency specific stuff
+
+In my agency, I use an email width of 600px with left & right margins from 30px to 50px. Its arbitrary but 600px allows a bit more compatibility with small screens. There is less chance that the layout will break due to a screen 10px too small.
+
+If you have to export images for your beloved developer, export as much .jpg as possible with a maximum quality of 80%. Smaller size images will speed up their loading time.
+
+We know how to make text-on-image work. It's just a bit risky but we can do it. So if you really really want to… go ahead, put that image as a background and throw some text onto it!
+
