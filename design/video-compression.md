@@ -32,7 +32,7 @@ We can already bring down the size from Premiere or Media Encoder by selecting C
 Please please **PLEASE**. Never export within After Effects.
 {% endhint %}
 
-## Handbrake
+## [Handbrake](https://handbrake.fr/)
 
 ### Summary screen
 
