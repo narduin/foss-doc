@@ -22,7 +22,9 @@ Let's say we exported​ a 1920x1080 video from Premiere Pro with these basic se
 
 It's gorgeous, it's Full HD, it's 1:30 minute of excellent editing but it's 50mb… What a shame.
 
+{% hint style="success" %}
 We can already bring down the size from Premiere or Media Encoder by selecting CBR instead of VBR and using a low bitrate \(like 2 or 3\).
+{% endhint %}
 
 [Let's now use Handbrake!](https://handbrake.fr/) It's free, open source and multi platform. You can also read [this great article](https://loremipsum.ueno.co/dear-ueno-how-do-you-compress-videos-6657ebd9dd28?gi=4d8681fca54a) from Ueno on video encoding.
 
